@@ -25,7 +25,7 @@ app.use('/Service',Service);
 
 app.use('/contact',contact);
 
-app.get('/',(res,req)=>{
+app.get('/',(req,res)=>{
 res.send('app started')
 });
 
