@@ -6,6 +6,7 @@ const cors=require('cors')
 const dbcon=require('./DBconections/dbcon')
 dbcon();
 
+////coments
 
 const product=require('./routers/productroute')
 const customer=require('./routers/customerrote')
