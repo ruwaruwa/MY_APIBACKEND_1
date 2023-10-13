@@ -7,7 +7,7 @@ const dbcon=require('./DBconections/dbcon')
 dbcon();
 
 ////comentsshhshxassnn
-
+//waxan kusoo daraya 
 const product=require('./routers/productroute')
 const customer=require('./routers/customerrote')
 const Service=require('./routers/serviceroute')
